@@ -20,6 +20,8 @@ Welcome to the official GitHub organization of **SS&Y IT SOLUTION**. We are a fu
 ### 📧 Get in Touch:
 *   **Website:** [ssysolution.com](https://ssysolution.com)
 *   **Email:** contact@ssysolution.com
-
+*   **Email:** info@ssysolution.com
+*   **Email:** samuel@ssysolution.com
+*   **Email:** yaqoobsamuel100@gmail.com
 ---
 *Delivering Excellence through Clean Code and Modern Solutions.*
